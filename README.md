@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="John S. Lystad — Computational Statistics · Social Science · International Policy" width="100%">
+  <img src="./assets/profile-banner.jpg" alt="John S. Lystad — Computational Statistician · Social Scientist · International Affairs Analyst" width="100%">
 </p>
 
 <p align="center">
