@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="260" viewBox="0 0 1600 260" role="img" aria-labelledby="title desc">
+  <title id="title">John S. Lystad — Academic Profile</title>
+  <desc id="desc">Editorial academic GitHub profile banner inspired by the LystadJS website.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070709"/>
+      <stop offset="1" stop-color="#120e15"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8d1732"/>
+      <stop offset="1" stop-color="#65457e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="260" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1599" height="259" rx="11.5" fill="none" stroke="#312632"/>
+  <rect x="62" y="46" width="3" height="168" fill="url(#rule)"/>
+
+  <g transform="translate(94 61)">
+    <text x="0" y="0" fill="#918493" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.6">RESEARCHER · STATISTICIAN · COMPUTER SCIENTIST</text>
+    <text x="0" y="68" fill="#eee5d9" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700">John S. Lystad</text>
+    <text x="0" y="111" fill="#c8bcc7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20">Computational Statistics · Social Science · International Policy</text>
+    <text x="0" y="154" fill="#918493" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Methodological rigor for consequential decisions under imperfect information.</text>
+  </g>
+
+  <g transform="translate(1165 69)">
+    <text x="0" y="0" fill="#9270ac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">FIELD</text>
+    <text x="0" y="25" fill="#eee5d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">computational statistics</text>
+    <text x="0" y="67" fill="#bf3152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">CURRENT</text>
+    <text x="0" y="92" fill="#eee5d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">open-source AI + autonomous weapons</text>
+    <text x="0" y="134" fill="#9270ac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">METHODS</text>
+    <text x="0" y="159" fill="#c8bcc7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">R · Python · causal inference · GIS</text>
+  </g>
+</svg>
