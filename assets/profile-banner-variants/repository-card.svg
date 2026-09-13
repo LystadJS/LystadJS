@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="260" viewBox="0 0 1600 260" role="img" aria-labelledby="title desc">
+  <title id="title">John S. Lystad — Computational Statistics, Social Science, International Policy</title>
+  <desc id="desc">Minimal GitHub profile banner using the LystadJS website palette and research identity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d0b10"/>
+      <stop offset="1" stop-color="#120e15"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#65457e"/>
+      <stop offset="0.55" stop-color="#9270ac"/>
+      <stop offset="1" stop-color="#8d1732"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="260" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1599" height="259" rx="11.5" fill="none" stroke="#312632"/>
+
+  <g transform="translate(64 44)">
+    <rect x="2" y="2" width="24" height="24" transform="rotate(45 14 14)" fill="#0c090d" stroke="#59434f"/>
+    <text x="14" y="18" text-anchor="middle" fill="#aaa0a6" font-family="Georgia, 'Times New Roman', serif" font-size="9" font-weight="700">J</text>
+    <text x="44" y="19" fill="#918493" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="1.1">LYSTADJS / PROFILE</text>
+  </g>
+
+  <g transform="translate(64 108)">
+    <text x="0" y="0" fill="#eee5d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="45" font-weight="700" letter-spacing="-0.9">John S. Lystad</text>
+    <text x="0" y="43" fill="#c8bcc7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500">Computational Statistics · Social Science · International Policy</text>
+    <rect x="0" y="68" width="300" height="2" rx="1" fill="url(#accent)" opacity="0.9"/>
+  </g>
+
+  <g transform="translate(64 210)" fill="#918493" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <text x="0" y="0">R</text><circle cx="25" cy="-4" r="2" fill="#4a3547"/>
+    <text x="39" y="0">Python</text><circle cx="91" cy="-4" r="2" fill="#4a3547"/>
+    <text x="105" y="0">causal inference</text><circle cx="214" cy="-4" r="2" fill="#4a3547"/>
+    <text x="228" y="0">spatial analysis</text><circle cx="338" cy="-4" r="2" fill="#4a3547"/>
+    <text x="352" y="0">human security</text>
+  </g>
+
+  <g transform="translate(1165 82)">
+    <text x="0" y="0" fill="#918493" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">CURRENT</text>
+    <text x="0" y="34" fill="#eee5d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">open-source AI + autonomous</text>
+    <text x="0" y="58" fill="#eee5d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">weapon non-proliferation</text>
+    <text x="0" y="98" fill="#918493" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">researcher · statistician · computer scientist</text>
+  </g>
+</svg>
