@@ -14,37 +14,26 @@
   <a href="https://lystadjs.github.io/cv.html"><strong>CV</strong></a>
 </p>
 
-I work at the intersection of **computational statistics, social science, and international policy**, with a focus on analytical problems where the data are imperfect and the decisions still matter. Much of my work centers on reproducible statistical workflows, research translation, and methods that remain useful under uncertainty.
+I work across **computational statistics, social science, and international policy**, building reproducible analytical workflows for problems where data are imperfect and decisions still carry consequences.
 
-Right now, I am especially interested in **open-source artificial intelligence and autonomous-weapon non-proliferation**, alongside longer-running work on **humanitarian crises, counterterrorism, deradicalization, and human security**.
-
-> *Use what can be known to protect what can be lost.*
+**Current focus:** open-source AI and autonomous-weapon non-proliferation, alongside continuing work on humanitarian crises, counterterrorism, deradicalization, and human security.
 
 ### Selected work
 
 **[`counterterrorism_ethnosectarian_islamic_state`](https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state)** · `active research`  
-R workflows linking terrorism event data with Iraqi spatial, ethnosectarian, and population data for reproducible analysis of Islamic State-linked attack patterns.
+R workflows integrating terrorism event data with Iraqi spatial, ethnosectarian, and population data for reproducible analysis of Islamic State-linked attack patterns.
 
-**[`LystadJS.github.io`](https://github.com/LystadJS/LystadJS.github.io)** · `active infrastructure`  
-The source for my academic and technical portfolio, research archive, project archive, code notes, and CV.
+**[`LystadJS.github.io`](https://github.com/LystadJS/LystadJS.github.io)** · `portfolio infrastructure`  
+Source for my academic and technical portfolio, research archive, project archive, code notes, and CV.
 
-**[`UN-Transcript-Intelligence-Dynamic-Voting-Alignment`](https://github.com/LystadJS/UN-Transcript-Intelligence-Dynamic-Voting-Alignment)** · `project shell`  
-A public home for work on UN transcript intelligence and dynamic voting alignment. Substantive methodology and implementation are still in development.
+**[GitHub Gists](https://gist.github.com/LystadJS)** · `development toolkit`  
+Smaller utilities, reusable workflows, experiments, and technical fragments.
 
-**[`Unsupervised-Machine-Learning`](https://github.com/LystadJS/Unsupervised-Machine-Learning)** · `reference notes`  
-Documentation-oriented notes on unsupervised learning methods; executable implementations are not yet published.
-
-Smaller utilities, reusable workflows, and experiments live in my **[GitHub Gists](https://gist.github.com/LystadJS)**.
-
-### Methods & tooling
+### Methods
 
 `R` · `Python` · `SQL` · `Rust` · causal inference · regression · messy & missing data · unsupervised learning · GIS · OSINT · data engineering · visualization · large-scale computing
 
-I care about **reproducibility, auditability, and research translation**. For public analytical work, I try to make the path from source data to analytical decisions, diagnostics, outputs, and limitations visible without pretending that exploratory work is a finished release.
-
-### Research orientation
-
-I am most interested in work where **methodological rigor and technical implementation have to survive contact with imperfect real-world data**—especially when the result informs policy, humanitarian response, security analysis, or other consequential decisions.
+I prioritize **reproducibility, auditability, and research translation**—especially where methodological rigor has to survive contact with imperfect real-world data.
 
 <p align="center">
   <a href="mailto:jl17842@nyu.edu">NYU Email</a>
@@ -52,6 +41,4 @@ I am most interested in work where **methodological rigor and technical implemen
   <a href="mailto:lystadjs@gmail.com">Personal Email</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/LystadJS">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/LystadJS">GitHub</a>
 </p>
