@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="260" viewBox="0 0 1600 260" role="img" aria-labelledby="title desc">
+  <title id="title">John S. Lystad — Research Terminal Profile</title>
+  <desc id="desc">Minimal technical GitHub profile banner using the LystadJS terminal motif.</desc>
+  <rect width="1600" height="260" rx="12" fill="#0d0b10"/>
+  <rect x="0.5" y="0.5" width="1599" height="259" rx="11.5" fill="none" stroke="#312632"/>
+
+  <g transform="translate(64 42)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle cx="5" cy="5" r="4" fill="#8d1732"/><circle cx="20" cy="5" r="4" fill="#65457e"/><circle cx="35" cy="5" r="4" fill="#4a3547"/>
+    <text x="0" y="48" fill="#91a8bb" font-size="14">LystadJS@research:~$ whoami</text>
+    <text x="0" y="88" fill="#eee5d9" font-size="31" font-weight="700">John S. Lystad</text>
+    <text x="0" y="124" fill="#c8bcc7" font-size="15">computational statistics · social science · international policy</text>
+    <text x="0" y="160" fill="#918493" font-size="13">R · Python · causal inference · messy &amp; missing data · GIS · OSINT</text>
+  </g>
+
+  <g transform="translate(1060 61)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <text x="0" y="0" fill="#9270ac">[FIELD]</text><text x="90" y="0" fill="#eee5d9">applied computational statistics</text>
+    <text x="0" y="38" fill="#bf3152">[CURRENT]</text><text x="90" y="38" fill="#eee5d9">open-source AI + autonomous weapons</text>
+    <text x="0" y="76" fill="#9270ac">[CONTEXT]</text><text x="90" y="76" fill="#c8bcc7">humanitarian · CT · human security</text>
+    <path d="M0 103h430" stroke="#312632"/>
+    <text x="0" y="132" fill="#918493">use what can be known to protect what can be lost</text>
+  </g>
+</svg>
