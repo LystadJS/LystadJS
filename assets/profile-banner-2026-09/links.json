@@ -1,0 +1,42 @@
+{
+  "website": {
+    "label": "Website",
+    "url": "https://lystadjs.github.io/"
+  },
+  "github": {
+    "label": "GitHub",
+    "url": "https://github.com/LystadJS"
+  },
+  "linkedin": {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/lystadjs/"
+  },
+  "cv": {
+    "label": "CV",
+    "url": "https://lystadjs.github.io/cv.html"
+  },
+  "interdisciplinary": {
+    "label": "Interdisciplinary Research",
+    "url": "https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state"
+  },
+  "missing-data": {
+    "label": "Messy & Missing Data",
+    "url": "https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state"
+  },
+  "causal": {
+    "label": "Causal Inference",
+    "url": "https://github.com/LystadJS/APSTA-GE-2012-Causal-Inference"
+  },
+  "visualization": {
+    "label": "Data Visualization",
+    "url": "https://github.com/LystadJS/LystadJS.github.io"
+  },
+  "multilevel": {
+    "label": "Nested Data & Multilevel Modeling",
+    "url": "https://github.com/LystadJS/APSTA-GE-2042-Multilevel-Modeling-Nested-and-Longitudinal-Data"
+  },
+  "engineering": {
+    "label": "Data Engineering",
+    "url": "https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state"
+  }
+}
