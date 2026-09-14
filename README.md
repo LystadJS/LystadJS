@@ -1,19 +1,4 @@
-<p align="center">
-  <img
-    src="./assets/profile-banner.webp"
-    alt="John S. Lystad — Computational Statistician · Social Scientist · International Affairs Analyst"
-    width="100%"
-  >
-</p>
-
-<p align="center">
-  <a href="https://lystadjs.github.io/"><img src="./assets/nav/nav-website.svg" alt="Website" height="34"></a>
-  <a href="https://lystadjs.github.io/cv.html"><img src="./assets/nav/nav-cv.svg" alt="CV" height="34"></a>
-  <a href="https://lystadjs.github.io/research.html"><img src="./assets/nav/nav-research.svg" alt="Research" height="34"></a>
-  <a href="https://lystadjs.github.io/projects.html"><img src="./assets/nav/nav-projects.svg" alt="Projects" height="34"></a>
-  <a href="https://lystadjs.github.io/code.html"><img src="./assets/nav/nav-code.svg" alt="Code and Development" height="34"></a>
-  <a href="https://linkedin.com/LystadJS"><img src="./assets/nav/nav-linkedin.svg" alt="LinkedIn" height="34"></a>
-</p>
+<p align="center"><img align="top" width="100%" src="./assets/banner-slices/r0_full.webp" alt="John S. Lystad — Computational Statistician · Social Scientist · International Affairs Analyst"><img align="top" width="88.2%" src="./assets/banner-slices/r1_left.webp" alt=""><a href="https://lystadjs.github.io/" title="Website"><img align="top" width="11.8%" src="./assets/banner-slices/r1_website.webp" alt="Website"></a><img align="top" width="88.2%" src="./assets/banner-slices/r2_left.webp" alt=""><a href="https://github.com/LystadJS" title="GitHub"><img align="top" width="11.8%" src="./assets/banner-slices/r2_github.webp" alt="GitHub"></a><img align="top" width="5.3%" src="./assets/banner-slices/r3_left.webp" alt=""><a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state" title="Interdisciplinary Research"><img align="top" width="12.1%" src="./assets/banner-slices/r3_interdisciplinary.webp" alt="Interdisciplinary Research"></a><a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state" title="Missing &amp; Messy Data"><img align="top" width="15.2%" src="./assets/banner-slices/r3_messy.webp" alt="Missing &amp; Messy Data"></a><a href="https://github.com/LystadJS/APSTA-GE-2012-Causal-Inference" title="Causal Inference"><img align="top" width="11.8%" src="./assets/banner-slices/r3_causal.webp" alt="Causal Inference"></a><img align="top" width="43.8%" src="./assets/banner-slices/r3_middle.webp" alt=""><a href="https://linkedin.com/LystadJS" title="LinkedIn"><img align="top" width="11.8%" src="./assets/banner-slices/r3_linkedin.webp" alt="LinkedIn"></a><img align="top" width="5.3%" src="./assets/banner-slices/r4_left.webp" alt=""><a href="https://github.com/LystadJS/LystadJS.github.io" title="Data Visualization"><img align="top" width="12.1%" src="./assets/banner-slices/r4_dataviz.webp" alt="Data Visualization"></a><a href="https://github.com/LystadJS/APSTA-GE-2042-Multilevel-Modeling-Nested-and-Longitudinal-Data" title="Nested Data &amp; Multi-level Modeling"><img align="top" width="15.2%" src="./assets/banner-slices/r4_nested.webp" alt="Nested Data &amp; Multi-level Modeling"></a><a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state" title="Data Engineering"><img align="top" width="11.8%" src="./assets/banner-slices/r4_engineering.webp" alt="Data Engineering"></a><img align="top" width="43.8%" src="./assets/banner-slices/r4_middle.webp" alt=""><a href="https://lystadjs.github.io/cv.html" title="CV"><img align="top" width="11.8%" src="./assets/banner-slices/r4_cv.webp" alt="CV"></a><img align="top" width="100%" src="./assets/banner-slices/r5_full.webp" alt=""></p>
 
 ---
 
