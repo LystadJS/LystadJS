@@ -1,63 +1,149 @@
 <p align="center">
-  <img src="./assets/profile-banner.webp" usemap="#profile-banner-map" alt="John S. Lystad — Computational Statistician · Social Scientist · International Affairs Analyst" width="100%">
+  <img
+    src="./assets/profile-banner.webp"
+    alt="John S. Lystad — Computational Statistician · Social Scientist · International Affairs Analyst"
+    width="100%"
+  >
 </p>
 
-<map name="profile-banner-map">
-  <area shape="rect" coords="38,105,183,127" href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state" alt="Interdisciplinary Research">
-  <area shape="rect" coords="189,105,317,127" href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state" alt="Missing &amp; Messy Data">
-  <area shape="rect" coords="323,105,423,127" href="https://github.com/LystadJS/APSTA-GE-2012-Causal-Inference" alt="Causal Inference">
-  <area shape="rect" coords="38,133,150,155" href="https://github.com/LystadJS/LystadJS.github.io" alt="Data Visualization">
-  <area shape="rect" coords="156,133,336,155" href="https://github.com/LystadJS/APSTA-GE-2042-Multilevel-Modeling-Nested-and-Longitudinal-Data" alt="Nested Data &amp; Multi-level Modeling">
-  <area shape="rect" coords="342,133,447,155" href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state" alt="Data Engineering">
-  <area shape="rect" coords="779,53,867,75" href="https://lystadjs.github.io/" alt="Website">
-  <area shape="rect" coords="779,82,867,104" href="https://github.com/LystadJS" alt="GitHub">
-  <area shape="rect" coords="779,111,867,133" href="https://linkedin.com/LystadJS" alt="LinkedIn">
-  <area shape="rect" coords="779,140,867,162" href="https://lystadjs.github.io/cv.html" alt="CV">
-</map>
-
 <p align="center">
-  <sub>
-    Repositories:
-    <a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state">Interdisciplinary Research</a>
-    · <a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state">Missing &amp; Messy Data</a>
-    · <a href="https://github.com/LystadJS/APSTA-GE-2012-Causal-Inference">Causal Inference</a>
-    · <a href="https://github.com/LystadJS/LystadJS.github.io">Data Visualization</a>
-    · <a href="https://github.com/LystadJS/APSTA-GE-2042-Multilevel-Modeling-Nested-and-Longitudinal-Data">Nested Data &amp; Multi-level Modeling</a>
-    · <a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state">Data Engineering</a>
-    <br>
-    Portfolio:
-    <a href="https://lystadjs.github.io/">Website</a>
-    · <a href="https://github.com/LystadJS">GitHub</a>
-    · <a href="https://linkedin.com/LystadJS">LinkedIn</a>
-    · <a href="https://lystadjs.github.io/cv.html">CV</a>
-  </sub>
+  <a href="https://lystadjs.github.io/"><img src="./assets/nav/nav-website.svg" alt="Website" height="34"></a>
+  <a href="https://lystadjs.github.io/cv.html"><img src="./assets/nav/nav-cv.svg" alt="CV" height="34"></a>
+  <a href="https://lystadjs.github.io/research.html"><img src="./assets/nav/nav-research.svg" alt="Research" height="34"></a>
+  <a href="https://lystadjs.github.io/projects.html"><img src="./assets/nav/nav-projects.svg" alt="Projects" height="34"></a>
+  <a href="https://lystadjs.github.io/code.html"><img src="./assets/nav/nav-code.svg" alt="Code and Development" height="34"></a>
+  <a href="https://linkedin.com/LystadJS"><img src="./assets/nav/nav-linkedin.svg" alt="LinkedIn" height="34"></a>
 </p>
 
-I work across **computational statistics, social science, and international policy**, building reproducible analytical workflows for problems where data are imperfect and decisions still carry consequences.
+---
 
-**Current focus:** open-source AI and autonomous-weapon non-proliferation, alongside continuing work on humanitarian crises, counterterrorism, deradicalization, and human security.
+I build **reproducible statistical and computational workflows** for social-science and international-affairs problems where data are incomplete, heterogeneous, difficult to integrate, or operationally consequential.
 
-### Selected work
+My work sits at the intersection of **computational statistics, empirical social science, research engineering, and international affairs**, with particular interests in political violence, human security, AI governance, and translating complex evidence into defensible analytical conclusions.
 
-**[`counterterrorism_ethnosectarian_islamic_state`](https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state)** · `active research`  
-R workflows integrating terrorism event data with Iraqi spatial, ethnosectarian, and population data for reproducible analysis of Islamic State-linked attack patterns.
+> **WORKING STANDARD //** reproducibility · auditability · explicit uncertainty · research translation
 
-**[`LystadJS.github.io`](https://github.com/LystadJS/LystadJS.github.io)** · `portfolio infrastructure`  
-Source for my academic and technical portfolio, research archive, project archive, code notes, and CV.
+## 01 // Selected Work
 
-**[GitHub Gists](https://gist.github.com/LystadJS)** · `development toolkit`  
-Smaller utilities, reusable workflows, experiments, and technical fragments.
+### [`counterterrorism_ethnosectarian_islamic_state`](https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state)
 
-### Methods
+**Political violence, ethnosectarian context, and Islamic State-linked attack patterns in Iraq**  
+`ACTIVE RESEARCH` · `R` · `GIS` · `spatial data` · `missing & messy data` · `population weighting`
 
-`R` · `Python` · `SQL` · `Rust` · causal inference · regression · messy & missing data · unsupervised learning · GIS · OSINT · data engineering · visualization · large-scale computing
+Reproducible analytical workflows integrating terrorism-event data with Iraqi spatial, ethnosectarian, and population data. The project emphasizes data provenance, spatial validation, missingness diagnostics, reconstructable transformations, and publication-oriented analysis.
 
-I prioritize **reproducibility, auditability, and research translation**—especially where methodological rigor has to survive contact with imperfect real-world data.
+[Repository →](https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state) · [Research context →](https://lystadjs.github.io/research.html)
+
+---
+
+### [`LystadJS.github.io`](https://github.com/LystadJS/LystadJS.github.io)
+
+**Academic, analytical, and technical portfolio infrastructure**  
+`ACTIVE` · `HTML` · `CSS` · `JavaScript` · `GitHub Pages` · `technical communication`
+
+Source for my public research and technical portfolio, including research, applied projects, code and development work, technical notes, and curriculum vitae. The site is intentionally dependency-light and points outward to the underlying reproducible artifacts rather than duplicating project documentation.
+
+[Repository →](https://github.com/LystadJS/LystadJS.github.io) · [Live site →](https://lystadjs.github.io/)
+
+## 02 // Methods
+
+<table>
+<tr>
+<td valign="top"><strong>Statistical &amp; computational methods</strong><br><br>
+Causal inference · regression · multilevel &amp; nested-data models · missing-data methods · unsupervised learning
+</td>
+<td valign="top"><strong>Research &amp; data engineering</strong><br><br>
+Reproducible pipelines · validation &amp; diagnostics · provenance &amp; auditability · data integration · structured research workflows
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Applied analysis</strong><br><br>
+GIS &amp; spatial analysis · OSINT · visualization · interdisciplinary research · human-security analysis
+</td>
+<td valign="top"><strong>Languages &amp; systems</strong><br><br>
+R · Python · SQL · Rust · shell / CLI workflows
+</td>
+</tr>
+</table>
+
+I generally prefer workflows in which analytical decisions can be **inspected, reconstructed, challenged, and rerun** rather than hidden behind a final figure or model object.
+
+## 03 // Current
+
+```text
+CURRENT // SEP 2026
+
+AI GOVERNANCE
+└─ open-source AI and autonomous-weapon non-proliferation
+
+INTERNATIONAL INSTITUTIONS
+└─ UN transcript intelligence and dynamic voting alignment
+
+POLITICAL VIOLENCE & HUMAN SECURITY
+└─ counterterrorism, deradicalization, humanitarian crises,
+   ethnosectarian dynamics, and conflict analysis
+```
+
+**Active development:** [`UN-Transcript-Intelligence-Dynamic-Voting-Alignment`](https://github.com/LystadJS/UN-Transcript-Intelligence-Dynamic-Voting-Alignment) — public project shell for ongoing work concerning United Nations transcript intelligence and changing voting alignment. Substantive methodology, implementation, and empirical results should not be inferred until they are published in the repository.
+
+## 04 // Research & Technical Infrastructure
+
+| Resource | Purpose |
+|---|---|
+| [Research](https://lystadjs.github.io/research.html) | Academic research, works in progress, and substantive research programs |
+| [Projects](https://lystadjs.github.io/projects.html) | Applied analytical and interdisciplinary projects |
+| [Code & Development](https://lystadjs.github.io/code.html) | Software, repositories, methods, and development work |
+| [Development Toolkit](https://gist.github.com/LystadJS) | Reusable utilities, technical fragments, experiments, and smaller workflows |
+| [CV](https://lystadjs.github.io/cv.html) | Education, appointments, experience, technical work, and credentials |
+| [Website](https://lystadjs.github.io/) | Primary academic and professional portfolio |
+
+<details>
+<summary><strong>05 // Repository Standard</strong> — reproducibility, provenance, and research-integrity conventions</summary>
+
+<br>
+
+Public research repositories are intended to make the analytical process legible, not merely display final outputs.
+
+Where appropriate, projects document:
+
+- research questions and analytical scope;
+- source-data provenance and redistribution constraints;
+- schema, duplicate, missingness, and validation checks;
+- canonical analytical entry points;
+- reproducibility requirements and deterministic settings;
+- model and figure provenance;
+- citation guidance;
+- rights and reuse considerations; and
+- the distinction between exploratory, active, and publication-ready results.
+
+```text
+source material
+      ↓
+validation + provenance
+      ↓
+cleaning + transformation
+      ↓
+analytical dataset
+      ↓
+models / diagnostics / figures
+      ↓
+interpretation
+      ↓
+versioned research artifact
+```
+
+</details>
+
+---
 
 <p align="center">
-  <a href="mailto:jl17842@nyu.edu">NYU Email</a>
+  <a href="https://lystadjs.github.io/">Website</a>
   &nbsp;·&nbsp;
-  <a href="mailto:lystadjs@gmail.com">Personal Email</a>
+  <a href="https://lystadjs.github.io/cv.html">CV</a>
+  &nbsp;·&nbsp;
+  <a href="https://lystadjs.github.io/research.html">Research</a>
+  &nbsp;·&nbsp;
+  <a href="https://lystadjs.github.io/code.html">Code &amp; Development</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/LystadJS">LinkedIn</a>
 </p>

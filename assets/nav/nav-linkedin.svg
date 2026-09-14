@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="34" viewBox="0 0 130 34" role="img" aria-label="LINKEDIN">
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17111b" stop-opacity=".86"/>
+      <stop offset=".55" stop-color="#0c090d" stop-opacity=".98"/>
+      <stop offset="1" stop-color="#120e15" stop-opacity=".94"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bf3152"/>
+      <stop offset="1" stop-color="#9270ac"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="129" height="33" rx="3" fill="url(#surface)" stroke="#4a3547"/>
+  <rect x="1" y="32" width="128" height="1" fill="url(#accent)" opacity=".82"/>
+  <rect x="9" y="9" width="2" height="16" rx="1" fill="url(#accent)"/>
+  <text x="21" y="20.6" fill="#c8bcc7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="600" letter-spacing="1.1">LINKEDIN</text>
+  <path d="M112 12.5H117V17.5 M117 12.5L111 18.5" fill="none" stroke="#918493" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
