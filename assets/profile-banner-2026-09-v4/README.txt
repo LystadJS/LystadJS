@@ -1,0 +1,1 @@
+Stable single-image banner. Functional links are rendered as GitHub-native controls below the image to avoid slice wrapping and seam artifacts.
