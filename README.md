@@ -12,6 +12,17 @@ My work sits at the intersection of **computational statistics, empirical social
 
 ## 01 // Selected Work
 
+### Unsupervised Machine Learning
+
+`ACTIVE METHODS REFERENCE`  
+`R` · `clustering` · `dimension reduction` · `exploratory analysis` · `reproducible learning`
+
+A growing technical reference for unsupervised-learning methods, with emphasis on exploratory structure discovery, dimensionality reduction, clustering, and statistically interpretable workflows.
+
+[Repository →](https://github.com/LystadJS/Unsupervised-Machine-Learning)
+
+---
+
 ### Political Violence, Ethnosectarian Context & Islamic State Attack Patterns
 
 `ACTIVE RESEARCH`  
@@ -107,5 +118,5 @@ versioned research artifact
   &nbsp;·&nbsp;
   <a href="https://lystadjs.github.io/cv.html">CV</a>
   &nbsp;·&nbsp;
-  <a href="https://linkedin.com/LystadJS">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/lystadjs/">LinkedIn</a>
 </p>
