@@ -1,0 +1,49 @@
+{
+  "source": "wide_cinematic_banner_header_graphic_with_a_dark.png",
+  "source_sha256": "0463376feb3b6b4a21c0a1a2ebfa3980cf1bdba5a386d748c6f7775a13fc529a",
+  "source_dimensions": [2172, 724],
+  "artwork_changes": "None: only crop into contiguous linked regions and encode WebP quality 90 at original resolution.",
+  "webp_quality": 90,
+  "links": [
+    {"label": "Website", "url": "https://lystadjs.github.io/", "visibility": "public", "source_click_center": [2070,228]},
+    {"label": "GitHub", "url": "https://github.com/LystadJS", "visibility": "public", "source_click_center": [2070,314]},
+    {"label": "LinkedIn", "url": "https://www.linkedin.com/in/lystadjs/", "visibility": "external", "source_click_center": [2070,391]},
+    {"label": "CV", "url": "https://lystadjs.github.io/cv.html", "visibility": "public", "source_click_center": [2070,477]},
+    {"label": "Interdisciplinary Research", "url": "https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state", "visibility": "public", "source_click_center": [245,574]},
+    {"label": "Messy & Missing Data", "url": "https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state#2-general-data-initialization-pipeline", "visibility": "public", "source_click_center": [550,574]},
+    {"label": "Causal Inference", "url": "https://github.com/LystadJS/APSTA-GE-2012-Causal-Inference", "visibility": "private", "source_click_center": [800,574]},
+    {"label": "Unsupervised Machine Learning", "url": "https://github.com/LystadJS/Unsupervised-Machine-Learning", "visibility": "public", "source_click_center": [1110,574]},
+    {"label": "Nested Data & Multilevel Modeling", "url": "https://github.com/LystadJS/APSTA-GE-2042-Multilevel-Modeling-Nested-and-Longitudinal-Data", "visibility": "private", "source_click_center": [1500,574]},
+    {"label": "Data Visualization", "url": "https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state#representative-output", "visibility": "public", "source_click_center": [1830,574]}
+  ],
+  "tiles": [
+    {"path": "assets/profile-banner-2026-09-14-approved/r00_c00.webp", "box": [0,0,500,532], "bytes": 12890, "git_blob_sha": "f1a5a25042768a6d2289cee07e332fc73f67e93f", "link_index": null},
+    {"path": "assets/profile-banner-2026-09-14-approved/r00_c01.webp", "box": [500,0,1000,532], "bytes": 23014, "git_blob_sha": "007ecdf3985aa4b7ce4cd1e0c004b5cee952c26c", "link_index": null},
+    {"path": "assets/profile-banner-2026-09-14-approved/r00_c02.webp", "box": [1000,0,1500,532], "bytes": 23584, "git_blob_sha": "a93304a4a02c18aee303b1616e0101f9cc177e40", "link_index": null},
+    {"path": "assets/profile-banner-2026-09-14-approved/r00_c03.webp", "box": [1500,0,2000,532], "bytes": 15828, "git_blob_sha": "ac911e40836f82ede014455872121bd106b3afbe", "link_index": null},
+    {"path": "assets/profile-banner-2026-09-14-approved/r00_c04.webp", "box": [2000,0,2172,280], "bytes": 2808, "git_blob_sha": "519f002082cb555722e69b2448abb7028820c700", "link_index": 0},
+    {"path": "assets/profile-banner-2026-09-14-approved/r00_c05.webp", "box": [2000,280,2172,356], "bytes": 1220, "git_blob_sha": "71be5dff5076e466812e7f9f5156f808fcfc9ecd", "link_index": 1},
+    {"path": "assets/profile-banner-2026-09-14-approved/r00_c06.webp", "box": [2000,356,2172,438], "bytes": 972, "git_blob_sha": "4b8dbdbe9ac36a7094e8423a627e5d2f33b1cc0e", "link_index": 2},
+    {"path": "assets/profile-banner-2026-09-14-approved/r00_c07.webp", "box": [2000,438,2172,532], "bytes": 1154, "git_blob_sha": "d24becc6ddcbf0c2ac0bfc4e7b28a338e795035d", "link_index": 3},
+    {"path": "assets/profile-banner-2026-09-14-approved/r01_c00.webp", "box": [0,532,80,724], "bytes": 718, "git_blob_sha": "bab3f894a341716dce0eafeba90212fc241a42e7", "link_index": null},
+    {"path": "assets/profile-banner-2026-09-14-approved/r01_c01.webp", "box": [80,532,406,724], "bytes": 4812, "git_blob_sha": "54cc379eb1fd1457c0baf60d4b56688ed7526a54", "link_index": 4},
+    {"path": "assets/profile-banner-2026-09-14-approved/r01_c02.webp", "box": [406,532,690,724], "bytes": 3498, "git_blob_sha": "969798c10e46dc059dc42f1064a209e77ca676b9", "link_index": 5},
+    {"path": "assets/profile-banner-2026-09-14-approved/r01_c03.webp", "box": [690,532,925,724], "bytes": 2594, "git_blob_sha": "ec63467a0a056ca297246955eedfbdf9a97c0c27", "link_index": 6},
+    {"path": "assets/profile-banner-2026-09-14-approved/r01_c04.webp", "box": [925,532,1307,724], "bytes": 4756, "git_blob_sha": "d9c20b69ec34c5fbc550b12c514b15346032eea5", "link_index": 7},
+    {"path": "assets/profile-banner-2026-09-14-approved/r01_c05.webp", "box": [1307,532,1710,724], "bytes": 4734, "git_blob_sha": "2ef7f08876586dddeef36a4566b4357fd40370d7", "link_index": 8},
+    {"path": "assets/profile-banner-2026-09-14-approved/r01_c06.webp", "box": [1710,532,1970,724], "bytes": 2708, "git_blob_sha": "acb19f9ca0f4a51334f23517d77c1385496b6f01", "link_index": 9},
+    {"path": "assets/profile-banner-2026-09-14-approved/r01_c07.webp", "box": [1970,532,2172,724], "bytes": 1220, "git_blob_sha": "d1c76929786f5090acb8d259aa38ea502526437f", "link_index": null}
+  ],
+  "validation": {
+    "every_source_pixel_covered_once": true,
+    "pre_encoding_pixel_match": true,
+    "webp_psnr_db": 43.44398521685416,
+    "total_asset_bytes": 106510,
+    "click_centers_match_all_ten_links": true,
+    "readme_outside_banner_unchanged": true,
+    "browser_checks": "Local Chromium with GitHub-like markup CSS, not a live GitHub screenshot",
+    "tested_widths_px": [280,320,375,640,820,960,1060],
+    "links_passing_at_each_width": 10,
+    "max_position_error_px": 0.08316
+  }
+}
