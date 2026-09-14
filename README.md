@@ -10,10 +10,10 @@ My work sits at the intersection of **computational statistics, empirical social
 
 ## 01 // Selected Work
 
-### [`counterterrorism_ethnosectarian_islamic_state`](https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state)
+### Political Violence, Ethnosectarian Context & Islamic State Attack Patterns
 
-**Political violence, ethnosectarian context, and Islamic State-linked attack patterns in Iraq**  
-`ACTIVE RESEARCH` · `R` · `GIS` · `spatial data` · `missing & messy data` · `population weighting`
+`ACTIVE RESEARCH`  
+`R` · `GIS` · `spatial data` · `missing & messy data` · `population weighting`
 
 Reproducible analytical workflows integrating terrorism-event data with Iraqi spatial, ethnosectarian, and population data. The project emphasizes data provenance, spatial validation, missingness diagnostics, reconstructable transformations, and publication-oriented analysis.
 
@@ -21,10 +21,10 @@ Reproducible analytical workflows integrating terrorism-event data with Iraqi sp
 
 ---
 
-### [`LystadJS.github.io`](https://github.com/LystadJS/LystadJS.github.io)
+### Academic & Technical Portfolio
 
-**Academic, analytical, and technical portfolio infrastructure**  
-`ACTIVE` · `HTML` · `CSS` · `JavaScript` · `GitHub Pages` · `technical communication`
+`ACTIVE`  
+`HTML` · `CSS` · `JavaScript` · `GitHub Pages` · `technical communication`
 
 Source for my public research and technical portfolio, including research, applied projects, code and development work, technical notes, and curriculum vitae. The site is intentionally dependency-light and points outward to the underlying reproducible artifacts rather than duplicating project documentation.
 
@@ -32,55 +32,34 @@ Source for my public research and technical portfolio, including research, appli
 
 ## 02 // Methods
 
-<table>
-<tr>
-<td valign="top"><strong>Statistical &amp; computational methods</strong><br><br>
-Causal inference · regression · multilevel &amp; nested-data models · missing-data methods · unsupervised learning
-</td>
-<td valign="top"><strong>Research &amp; data engineering</strong><br><br>
-Reproducible pipelines · validation &amp; diagnostics · provenance &amp; auditability · data integration · structured research workflows
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Applied analysis</strong><br><br>
-GIS &amp; spatial analysis · OSINT · visualization · interdisciplinary research · human-security analysis
-</td>
-<td valign="top"><strong>Languages &amp; systems</strong><br><br>
-R · Python · SQL · Rust · shell / CLI workflows
-</td>
-</tr>
-</table>
+**STATISTICAL + COMPUTATIONAL**  
+`causal inference` · `regression` · `multilevel & nested-data models` · `missing-data methods` · `unsupervised learning`
+
+**RESEARCH + DATA ENGINEERING**  
+`reproducible pipelines` · `validation & diagnostics` · `provenance & auditability` · `data integration` · `structured research workflows`
+
+**APPLIED ANALYSIS**  
+`GIS & spatial analysis` · `OSINT` · `visualization` · `interdisciplinary research` · `human-security analysis`
+
+**LANGUAGES + SYSTEMS**  
+`R` · `Python` · `SQL` · `Rust` · `shell / CLI workflows`
 
 I generally prefer workflows in which analytical decisions can be **inspected, reconstructed, challenged, and rerun** rather than hidden behind a final figure or model object.
 
 ## 03 // Current
 
-```text
-CURRENT // SEP 2026
+> `CURRENT // SEP 2026`  
+> **AI GOVERNANCE** — open-source AI and autonomous-weapon non-proliferation  
+> **INTERNATIONAL INSTITUTIONS** — UN transcript intelligence and dynamic voting alignment  
+> **POLITICAL VIOLENCE & HUMAN SECURITY** — counterterrorism, deradicalization, humanitarian crises, ethnosectarian dynamics, and conflict analysis
 
-AI GOVERNANCE
-└─ open-source AI and autonomous-weapon non-proliferation
-
-INTERNATIONAL INSTITUTIONS
-└─ UN transcript intelligence and dynamic voting alignment
-
-POLITICAL VIOLENCE & HUMAN SECURITY
-└─ counterterrorism, deradicalization, humanitarian crises,
-   ethnosectarian dynamics, and conflict analysis
-```
-
-**Active development:** [`UN-Transcript-Intelligence-Dynamic-Voting-Alignment`](https://github.com/LystadJS/UN-Transcript-Intelligence-Dynamic-Voting-Alignment) — public project shell for ongoing work concerning United Nations transcript intelligence and changing voting alignment. Substantive methodology, implementation, and empirical results should not be inferred until they are published in the repository.
+**Active development:** [UN transcript intelligence & dynamic voting alignment](https://github.com/LystadJS/UN-Transcript-Intelligence-Dynamic-Voting-Alignment) — public project shell for ongoing work concerning United Nations transcript intelligence and changing voting alignment. Substantive methodology, implementation, and empirical results should not be inferred until they are published in the repository.
 
 ## 04 // Research & Technical Infrastructure
 
-| Resource | Purpose |
-|---|---|
-| [Research](https://lystadjs.github.io/research.html) | Academic research, works in progress, and substantive research programs |
-| [Projects](https://lystadjs.github.io/projects.html) | Applied analytical and interdisciplinary projects |
-| [Code & Development](https://lystadjs.github.io/code.html) | Software, repositories, methods, and development work |
-| [Development Toolkit](https://gist.github.com/LystadJS) | Reusable utilities, technical fragments, experiments, and smaller workflows |
-| [CV](https://lystadjs.github.io/cv.html) | Education, appointments, experience, technical work, and credentials |
-| [Website](https://lystadjs.github.io/) | Primary academic and professional portfolio |
+**Portfolio** — [Website](https://lystadjs.github.io/) · [Research](https://lystadjs.github.io/research.html) · [Projects](https://lystadjs.github.io/projects.html) · [CV](https://lystadjs.github.io/cv.html)
+
+**Technical** — [Code & Development](https://lystadjs.github.io/code.html) · [Development Toolkit / Gists](https://gist.github.com/LystadJS)
 
 <details>
 <summary><strong>05 // Repository Standard</strong> — reproducibility, provenance, and research-integrity conventions</summary>
@@ -125,10 +104,6 @@ versioned research artifact
   <a href="https://lystadjs.github.io/">Website</a>
   &nbsp;·&nbsp;
   <a href="https://lystadjs.github.io/cv.html">CV</a>
-  &nbsp;·&nbsp;
-  <a href="https://lystadjs.github.io/research.html">Research</a>
-  &nbsp;·&nbsp;
-  <a href="https://lystadjs.github.io/code.html">Code &amp; Development</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/LystadJS">LinkedIn</a>
 </p>
