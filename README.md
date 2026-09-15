@@ -14,15 +14,15 @@
 <p align="center">
   <a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state">Interdisciplinary Research</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state#2-general-data-initialization-pipeline">Messy &amp; Missing Data</a>
+  <a href="https://github.com/LystadJS/method-missing-data">Messy &amp; Missing Data</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/LystadJS/APSTA-GE-2012-Causal-Inference">Causal Inference</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/LystadJS/Unsupervised-Machine-Learning">Unsupervised Machine Learning</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/LystadJS/APSTA-GE-2042-Multilevel-Modeling-Nested-and-Longitudinal-Data">Nested Data &amp; Multilevel Modeling</a>
+  <a href="https://github.com/LystadJS/method-longitudinal-multilevel">Nested Data &amp; Multilevel Modeling</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state#representative-output">Data Visualization</a>
+  <a href="https://github.com/LystadJS/method-statistical-computing">Data Visualization</a>
 </p>
 <!-- PROFILE BANNER END -->
 
@@ -69,6 +69,9 @@ Source for my public research and technical portfolio, including research, appli
 
 ## 02 // Methods
 
+**METHOD HUBS**  
+[Unsupervised Learning](https://github.com/LystadJS/Unsupervised-Machine-Learning) · [Cluster Analysis](https://github.com/LystadJS/method-clustering) · [Dimension Reduction](https://github.com/LystadJS/method-dimension-reduction) · [Network Analysis](https://github.com/LystadJS/method-network-analysis) · [Missing Data & Measurement](https://github.com/LystadJS/method-missing-data) · [Longitudinal & Multilevel](https://github.com/LystadJS/method-longitudinal-multilevel) · [Spatial Statistics](https://github.com/LystadJS/method-spatial-statistics) · [Statistical Computing & Visualization](https://github.com/LystadJS/method-statistical-computing)
+
 **STATISTICAL + COMPUTATIONAL**  
 `causal inference` · `regression` · `multilevel & nested-data models` · `missing-data methods` · `unsupervised learning`
 
@@ -94,9 +97,11 @@ I generally prefer workflows in which analytical decisions can be **inspected, r
 
 ## 04 // Research & Technical Infrastructure
 
-**Portfolio** — [Website](https://lystadjs.github.io/) · [Research](https://lystadjs.github.io/research.html) · [Projects](https://lystadjs.github.io/projects.html) · [CV](https://lystadjs.github.io/cv.html)
+**Research domains** — [Political Violence](https://github.com/LystadJS/domain-political-violence) · [Terrorism & Counterterrorism](https://github.com/LystadJS/domain-terrorism-counterterrorism) · [Humanitarian Response](https://github.com/LystadJS/domain-humanitarian-response) · [Human Security](https://github.com/LystadJS/domain-human-security) · [Emerging Technology](https://github.com/LystadJS/domain-emerging-technology) · [Anthropocene & Human Ecology](https://github.com/LystadJS/domain-anthropocene-human-ecology)
 
-**Technical** — [Code & Development](https://lystadjs.github.io/code.html) · [Development Toolkit / Gists](https://gist.github.com/LystadJS)
+**Portfolio** — [Website](https://lystadjs.github.io/) · [Research](https://lystadjs.github.io/research.html) · [CV](https://lystadjs.github.io/cv.html)
+
+**Technical** — [Code & Development](https://lystadjs.github.io/code.html) · [Research Registry](https://github.com/LystadJS/research-registry) · [Development Toolkit / Gists](https://gist.github.com/LystadJS)
 
 <details>
 <summary><strong>05 // Repository Standard</strong> — reproducibility, provenance, and research-integrity conventions</summary>
