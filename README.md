@@ -1,6 +1,6 @@
-<!-- PROFILE BANNER START: stable single composite; links rendered separately to avoid GitHub slice seams. -->
+<!-- PROFILE BANNER START: stable raster composite; links rendered separately to avoid GitHub slice seams. -->
 <p align="center">
-  <img width="100%" src="./assets/profile-banner-2026-09-v4/banner.svg" alt="John S. Lystad — Computational Statistician · Social Scientist · International Affairs Analyst">
+  <img width="100%" src="./assets/profile-banner-2026-09-v5/banner.jpg" alt="John S. Lystad — Computational Statistician · Social Scientist · International Affairs Analyst">
 </p>
 <p align="center">
   <a href="https://lystadjs.github.io/"><strong>Website</strong></a>
