@@ -58,6 +58,17 @@ Reproducible analytical workflows integrating terrorism-event data with Iraqi sp
 
 ---
 
+### Artificial Intelligence Governance & Non-Proliferation
+
+`ACTIVE APPLIED RESEARCH`  
+`R` · `PCoA` · `mixed-data distance` · `multilateral governance` · `reproducible visualization`
+
+A sanitized public reproducibility layer for analysis of AI-governance institutional terrain across the United Nations and wider multilateral ecosystem. The public release reproduces the structured Gower-distance and principal-coordinates workflow, numerical diagnostics, and publication-style strategic-terrain visualization while keeping private evidence archives and working materials separate.
+
+[Repository →](https://github.com/LystadJS/project-ai-governance-non-proliferation) · [Research context →](https://lystadjs.github.io/research.html#project-ai-nonproliferation)
+
+---
+
 ### Academic & Technical Portfolio
 
 `ACTIVE`  
